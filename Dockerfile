@@ -10,3 +10,4 @@ RUN \
     rm -rf /var/lib/apt/lists/*
 RUN curl -sSl https://get.docker.com/ | sh
 USER jenkins
+
